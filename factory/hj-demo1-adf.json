@@ -1,0 +1,9 @@
+{
+	"name": "hj-demo1-adf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "31d3e890-a48e-4921-a22f-1a5175ecce97",
+		"tenantId": "0ea0bfae-8351-4ada-8a80-e294cbcc638c"
+	}
+}
