@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "hj-demo1-adf"
+		},
+		"AzureDataLakeStorage1_ls_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_ls_properties_typeProperties_url": {
+			"value": "https://hjstorageaccount101.dfs.core.windows.net/"
 		}
 	}
 }
